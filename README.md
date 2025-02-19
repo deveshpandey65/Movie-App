@@ -4,9 +4,10 @@ A feature-rich movie application built with **React**, **Redux**, and **Axios**.
 
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/3b160378-4d5a-4bcf-bef2-801f2e703c6f" alt="Screenshot 1" style="height: 500px;" />
 <img src="https://github.com/user-attachments/assets/7a79a3f9-4695-4678-bffe-75f4ceb22166" alt="Screenshot 2" style="height: 500px;" />
 <img src="https://github.com/user-attachments/assets/472116e4-835a-44f4-8f74-3cca775aa879" alt="Screenshot 3" style="height: 500px;" />
-<img src="https://github.com/user-attachments/assets/59c7d41b-65f3-427e-8c79-32f33deaf701" alt="Screenshot 4" style="height: 500px;" />
+<img src="https://github.com/user-attachments/assets/2d4cea40-8ab0-4297-8e8f-de8c852bce05" alt="Screenshot 4" style="height: 500px;" />
 
 ## Table of Contents
 
